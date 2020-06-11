@@ -6,7 +6,7 @@
         {{item.nombre}}
         <span class="badge badge-primary badge-pill">{{item.cantidad}}</span>
       </li>
-   
+
     </ul>
   </div>
 </template>
